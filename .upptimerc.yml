@@ -16,7 +16,7 @@ sites:
   - name: office
     check: "tcp-ping"
     url: 58.213.197.202
-    port: 33312
+    port: 8000
     # ipv6: true
 
 status-website:
