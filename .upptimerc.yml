@@ -3,17 +3,17 @@ owner: htmambo # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: 博客
+  - name: blog
     url: https://blog.imzhp.com
-  - name: 阅读
+  - name: reader
     url: https://reader.hoping.eu.org
-  - name: 海外主机
+  - name: host_us
     url: https://izhp.eu.org/
-  - name: 香港主机
+  - name: host_hk
     url: 38.207.164.24
     port: 22
     check: "tcp-ping"
-  - name: 办公室
+  - name: office
     url: 58.213.197.202
     port: 33312
     check: "tcp-ping"
