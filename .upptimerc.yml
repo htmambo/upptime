@@ -4,24 +4,19 @@ repo: upptime # The name of this repository
 
 sites:
   - name: blog
-    title: 博客
     url: https://blog.imzhp.com
   - name: reader
-    title: 源阅读
     url: https://reader.hoping.eu.org
   - name: host_us
-    title: 美国主机
     url: https://izhp.eu.org/
   - name: host_hk
-    title: 香港主机
+    check: "tcp-ping"
     url: 38.207.164.24
     port: 22
-    check: "tcp-ping"
   - name: office
-    title: 主机
+    check: "tcp-ping"
     url: 58.213.197.202
     port: 33312
-    check: "tcp-ping"
     # ipv6: true
 
 status-website:
