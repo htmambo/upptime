@@ -93,3 +93,26 @@ i18n:
   durationMin: $DURATION 分钟
   incidentCompleted: 已完成
   incidentScheduled: 已排期
+  url: "链接"
+  status: "状态"
+  history: "历史"
+  responseTime: "响应时间"
+  uptime: "正常运行时间"
+  is down: 已停机
+  is back: 已恢复
+  up: "🟩 正常运行"
+  degraded: "🟨 运行缓慢"
+  down: "🟥 停机"
+  responseTimeGraphAlt: "响应时间图像"
+  responseTimeDay: "24 小时响应时间"
+  responseTimeWeek: "7 天正常运行时间"
+  responseTimeMonth: "30天的正常运行时间"
+  responseTimeYear: "1年的正常运行时间"
+  uptimeDay: "24 小时正常运行时间"
+  uptimeWeek: "7 天正常运行时间"
+  uptimeMonth: "30天的正常运行时间"
+  uptimeYear: "1年的正常运行时间"
+  liveStatusHtmlComment: "<！ -实时状态- >"
+  degradedPerformance: "🟨 性能降低"
+  completeOutage: "🟥 全部停机"
+  partialOutage: "🟧 部分停机"
