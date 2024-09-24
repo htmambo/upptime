@@ -39,9 +39,9 @@ status-website:
 i18n:
   activeIncidents: 活动事件
   allSystemsOperational: 所有系统都可以正常运行
-  incidentReport: "事件 #NUMBER 报告 →"
-  activeIncidentSummary: 在DATE 打开，有 POSTS 个帖子
-  incidentTitle: 事件NUMBER 的详细信息
+  incidentReport: "事件 $NUMBER 报告 →"
+  activeIncidentSummary: "在 $DATE 打开，有 $POSTS 个帖子"
+  incidentTitle: "事件 $NUMBER 的详细信息"
   incidentDetails: 事件详细信息
   incidentFixed: 已修复
   incidentOngoing: 正在进行
@@ -52,11 +52,11 @@ i18n:
   incidentCommentSummary: 由 AUTHOR 在DATE 发布
   incidentBack: ← 返回所有事件
   pastIncidents: 过去的事件
-  pastIncidentsResolved: POSTS 个问题在MINUTES 分钟内得到解决
+  pastIncidentsResolved: "$POSTS 个问题在 $MINUTES 分钟内得到解决"
   liveStatus: 实时状态
-  overallUptime: "总体正常运行时间： UPTIME"
+  overallUptime: "总体正常运行时间： $UPTIME"
   overallUptimeTitle: 总体正常运行时间
-  averageResponseTime: "平均响应时间:TIMEms"
+  averageResponseTime: "平均响应时间: $TIMEms"
   averageResponseTimeTitle: 平均响应时间
   sevelDayResponseTime: 7 天响应时间
   responseTimeMs: 响应时间（毫秒）
@@ -80,15 +80,15 @@ i18n:
   errorText: 您可以稍后再试。
   errorHome: 转到主页
   pastScheduledMaintenance: 过去的预定维护
-  scheduledMaintenance: 定期维护
-  scheduledMaintenanceSummaryStarted: 从 DATE 开始，持续DURATION 分钟
-  scheduledMaintenanceSummaryStarts: 从 DATE 开始，持续DURATION 分钟
-  startedAt: 开始在
-  startsAt: 开始于
-  duration: 持续时间
-  durationMin: $DURATION 分钟
-  incidentCompleted: 已完成
-  incidentScheduled: 已预定
+  scheduledMaintenance: "定期维护"
+  scheduledMaintenanceSummaryStarted: "从 $DATE 开始，持续 $DURATION 分钟"
+  scheduledMaintenanceSummaryStarts: "从 $DATE 开始，持续 $DURATION 分钟"
+  startedAt: "开始在"
+  startsAt: "开始于"
+  duration: "持续时间"
+  durationMin: "$DURATION 分钟"
+  incidentCompleted: "已完成"
+  incidentScheduled: "已预定"
   url: "链接"
   status: "状态"
   history: "历史"
