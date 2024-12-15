@@ -108,7 +108,7 @@
     "url": "58.213.197.202",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "office",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -119,6 +119,8 @@
     "timeWeek": 246,
     "timeMonth": 234,
     "timeYear": 223,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-15": 0
+    }
   }
 ]
