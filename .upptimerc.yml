@@ -9,10 +9,6 @@ sites:
     url: https://reader.hoping.eu.org
   - name: host_us
     url: https://izhp.eu.org/
-  - name: host_hk
-    check: "tcp-ping"
-    url: 38.207.164.24
-    port: 22
   - name: office
     check: "tcp-ping"
     url: 58.213.197.202
