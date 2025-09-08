@@ -7,6 +7,12 @@ sites:
     url: https://blog.imzhp.com
   - name: reader
     url: https://reader.hoping.eu.org
+  - name: tokyo
+    url: https://game.arpl.eu.org
+  - name: orange
+    url: https://mir.arpl.eu.org
+  - name: honkong
+    url: https://doc.hoping.gq
   - name: host_us
     url: https://izhp.eu.org/
   - name: office
