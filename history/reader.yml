@@ -1,7 +1,7 @@
 url: https://reader.hoping.eu.org
-status: up
-code: 200
-responseTime: 710
-lastUpdated: 2025-10-05T23:19:08.517Z
+status: down
+code: 502
+responseTime: 1114
+lastUpdated: 2025-10-06T04:56:39.804Z
 startTime: 2024-09-21T04:32:57.953Z
 generator: Upptime <https://github.com/upptime/upptime>
