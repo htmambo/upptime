@@ -172,18 +172,20 @@
     "url": "https://doc.960880.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/doc.960880.xyz.ico",
     "slug": "orange",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 913,
-    "timeWeek": 910,
-    "timeMonth": 918,
-    "timeYear": 931,
-    "dailyMinutesDown": {}
+    "time": 1288,
+    "timeDay": 10377,
+    "timeWeek": 3276,
+    "timeMonth": 1509,
+    "timeYear": 1288,
+    "dailyMinutesDown": {
+      "2025-10-27": 0
+    }
   },
   {
     "name": "honkong",
@@ -424,7 +426,7 @@
     "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.21%",
-    "uptimeMonth": "97.82%",
+    "uptimeMonth": "97.98%",
     "uptimeYear": "98.52%",
     "time": 257,
     "timeDay": 627,
